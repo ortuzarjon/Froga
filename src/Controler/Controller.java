@@ -52,6 +52,7 @@ public class Controller {
 			e.printStackTrace();
 		}
 		
+		
 		ArrayList<DatuakGuztiak> datuList=new ArrayList<DatuakGuztiak>();
 		double prezioTotal=0;
 		
